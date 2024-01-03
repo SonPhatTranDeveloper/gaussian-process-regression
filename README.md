@@ -4,6 +4,8 @@ This repository contains a Jupyter notebook with Gaussian Process Regression imp
 
 The detailed explanation for the code can be found at [my blog post](https://paperthatiread.com/index.php/2023/12/25/introduction-to-gaussian-processes/).
 
+![Gaussian Process Regression](figures/fig.png)
+
 ## How to run the code
 
 1) Install the prerequisite modules from the 'requirements.txt' file.
